@@ -89,7 +89,7 @@ section {
     border: solid 3px #024e76;  
 }
 
-h3 {
+.hero-form h3 {
     margin: 0;
     font-size: 24px;
 }
