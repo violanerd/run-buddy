@@ -275,6 +275,10 @@ section {
     margin: 15px;
 }
 
+.contact-info iframe {
+    height: 400px;
+  }
+
 .contact-info div {
     color: white;
 }
@@ -315,9 +319,18 @@ section {
     padding: 15px 0;
     font-size: 16px;
 }
+/* UTILITIES */
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
 .flex-row {
-    display: flex;
-  }
+  display: flex;
+}
 
   /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
